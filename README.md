@@ -2,8 +2,8 @@
 
 ### I'm a Full Stack JavaScript Developer who enjoys solving problems and building creative web applications!
 
-- :star2: Graduated from Thinkful's Remote Engineering Immersion on 03/11/2021
-- 🌱I’m currently pursuing my BS in Computer Science
+- 🌱I’m currently enrolled in ATA on the road to becoming a Back-end Java Developer!
+- - :star2: Graduated from Thinkful's Remote Engineering Immersion on 03/11/2021
 - :open_hands: I’m open to work opportunities, collaborations or questions, feel free to reach out to me! 
 - Connect with me:  
 :e-mail: esperac25@gmail.com, 

@@ -1,4 +1,4 @@
-### Hi there, I'm Esperanza Cardenas 👋
+### Hi, I'm Esperanza Cardenas 👋
 
 ### I'm a Full Stack JavaScript Developer who enjoys solving problems and building creative web applications!
 
